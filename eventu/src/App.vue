@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <index></index>
+    <index/>
   </div>
 </template>
 
@@ -13,6 +13,7 @@ export default {
     index
   }
 }
+
 // ({
 //   el:'#app',
 //   data:{
